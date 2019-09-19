@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top 10 University</string>
+    <string name="nama_universitas">Nama Universitas</string>
+    <string name="detail"></string>
+    <string name="title">Title</string>
+    <string name="this_is_the_description_balabalbalbalbalblabablablablbalbalbalbalbalblablablablablbalbalbalbalalblablablablabklbslbdklabdlabldblabdlabldaldbldbalbdlbaldbalbdlabdlbalbdlabdlabldb">This is the description balabalbalbalbalblabablablablbalbalbalbalbalblablablablablbalbalbalbalalblablablablabklbslbdklabdlabldblabdlabldaldbldbalbdlbaldbalbdlabdlbalbdlabdlabldb</string>
+    <string name="about">About</string>
+</resources>
